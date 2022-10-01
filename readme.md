@@ -1,4 +1,4 @@
-You can find 2 branches in this project:
+You can find 2 folders in this project:
 
 Main: This folder contains the submitted items. You can check the grades in the main ReadMe.
 
