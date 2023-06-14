@@ -12,6 +12,7 @@
 
 # ========== VARIABLES ==========
 NAME		= libft.a
+CC		= gcc
 
 SRC			= ./ft_isalpha.c	\
 			  ./ft_isdigit.c	\
